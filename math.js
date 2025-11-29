@@ -11,3 +11,5 @@ class Math {
     return a / b;
   }
 }
+
+window.math = new Math();
